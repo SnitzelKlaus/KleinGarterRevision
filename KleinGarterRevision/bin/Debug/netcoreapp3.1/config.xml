@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ConfigData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FoodColor>1</FoodColor>
+  <HeadColor>0</HeadColor>
+  <BodyColor>3</BodyColor>
+  <PlayerSkin>9632</PlayerSkin>
+  <FoodConsumed>5</FoodConsumed>
+  <MinSpeed>10</MinSpeed>
+  <MaxSpeed>40</MaxSpeed>
+  <Hardcore>false</Hardcore>
+  <BackgroundColor>11</BackgroundColor>
+  <BorderColor>8</BorderColor>
+  <Border>9608</Border>
+  <LevelWidth>50</LevelWidth>
+  <LevelHeight>25</LevelHeight>
+  <LevelDifficulty>10</LevelDifficulty>
+</ConfigData>

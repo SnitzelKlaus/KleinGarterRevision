@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yyQZVc6H1njBSwLAxq3DmBaEhfINWPTZgK1xLLj3I7dDkLnDvTcVq8ZY3IQn3Z770xI8WfFIKoXEdRsk8kP70g==",
+  "success": true,
+  "projectFilePath": "C:\\Programmering\\Git\\Projects\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benj4651\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\benj4651\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
