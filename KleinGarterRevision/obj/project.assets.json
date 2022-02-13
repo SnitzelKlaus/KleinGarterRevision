@@ -8,23 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\benj4651\\.nuget\\packages\\": {},
+    "C:\\Users\\Snitzel Klaus\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programmering\\Git\\Projects\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
+      "projectUniqueName": "C:\\Code\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
       "projectName": "KleinGarterRevision",
-      "projectPath": "C:\\Programmering\\Git\\Projects\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
-      "packagesPath": "C:\\Users\\benj4651\\.nuget\\packages\\",
-      "outputPath": "C:\\Programmering\\Git\\Projects\\KleinGarterRevision\\KleinGarterRevision\\obj\\",
+      "projectPath": "C:\\Code\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
+      "packagesPath": "C:\\Users\\Snitzel Klaus\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\KleinGarterRevision\\KleinGarterRevision\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\benj4651\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Snitzel Klaus\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,15 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.21, 3.1.21]"
+            "version": "[3.1.22, 3.1.22]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
           }
         ],
         "frameworkReferences": {
@@ -75,7 +83,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -6,7 +6,7 @@ using System.Threading;
 namespace KleinGarterRevision
 {
     //What are you doing in here? Don't even bother looking through this...
-    //This is just piles of hardcoded garbage code that's doing it job!
+    //This is just piles of hardcoded garbage code doing it's job!
     class Gui
     {
         public int InteractionMenu()

@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yyQZVc6H1njBSwLAxq3DmBaEhfINWPTZgK1xLLj3I7dDkLnDvTcVq8ZY3IQn3Z770xI8WfFIKoXEdRsk8kP70g==",
+  "dgSpecHash": "AORVYcxsllQHIQ6/t8o4R8qiqJ50dWqMwp+H9+7nnqp/6unHlsdmhd2D65Ox5BJuDHD16B3ytfsYeHYXyoqR7A==",
   "success": true,
-  "projectFilePath": "C:\\Programmering\\Git\\Projects\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
+  "projectFilePath": "C:\\Code\\KleinGarterRevision\\KleinGarterRevision\\KleinGarterRevision.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\benj4651\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
-    "C:\\Users\\benj4651\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Snitzel Klaus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Snitzel Klaus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Snitzel Klaus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Snitzel Klaus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
