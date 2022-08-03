@@ -52,3 +52,17 @@ C:\Code\KleinGarterRevision\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGar
 C:\Code\KleinGarterRevision\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.dll
 C:\Code\KleinGarterRevision\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.pdb
 C:\Code\KleinGarterRevision\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.genruntimeconfig.cache
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\bin\Debug\netcoreapp3.1\KleinGarterRevision.exe
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\bin\Debug\netcoreapp3.1\KleinGarterRevision.deps.json
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\bin\Debug\netcoreapp3.1\KleinGarterRevision.runtimeconfig.json
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\bin\Debug\netcoreapp3.1\KleinGarterRevision.runtimeconfig.dev.json
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\bin\Debug\netcoreapp3.1\KleinGarterRevision.dll
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\bin\Debug\netcoreapp3.1\KleinGarterRevision.pdb
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.csproj.AssemblyReference.cache
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.AssemblyInfoInputs.cache
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.AssemblyInfo.cs
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.csproj.CoreCompileInputs.cache
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.dll
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.pdb
+C:\Code\KleinGarterRevision\Game\KleinGarterRevision\obj\Debug\netcoreapp3.1\KleinGarterRevision.genruntimeconfig.cache

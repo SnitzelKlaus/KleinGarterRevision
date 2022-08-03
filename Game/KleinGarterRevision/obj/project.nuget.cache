@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yumbfcxS4BARVQl16BoJErM/ue1OCERs4rn2TMwMDUsBMaRCepsYf7DMzaTFTU+vstkjggH2A6wzuhUiWJFfew==",
+  "dgSpecHash": "SIIHiobffI3APjnrXjsETCMbAHjuzJgmyT3W71IoOfu2BB13OElVaEGJ45EArnwCfbWh0TrkpMx5hP1uhzIO1g==",
   "success": true,
   "projectFilePath": "C:\\Code\\KleinGarterRevision\\Game\\KleinGarterRevision\\KleinGarterRevision.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\benj4651\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\benj4651\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
